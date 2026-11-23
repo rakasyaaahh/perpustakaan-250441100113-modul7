@@ -12,7 +12,7 @@
                         Autentikasi Pengguna
                     </span>
                     <h5 class="fw-bold mb-1 text-dark" style="letter-spacing: -0.02em;">Masuk ke Akun</h5>
-                    <p class="text-muted small mb-0">Masukkan email dan kata sandi akun Anda.</p>
+                    <p class="text-muted small mb-0">Selamat datang ke Perpustakaan 250441100113.</p>
                 </div>
 
                 <div class="panel-body p-4">
